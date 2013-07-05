@@ -1,0 +1,8 @@
+In this folder read data, we put all the raw data required for analysis
+the intial set of data includes:
+	reads-nobias.fa 
+	reads-bias-random.fa
+	repreads-bias-random.fa
+	reads-bias-nonrandom.fa
+	ecoli_ref-5m.fastq.gz
+
