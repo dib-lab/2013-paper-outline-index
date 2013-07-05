@@ -1,0 +1,4 @@
+in this folder pipline, we do the heavy computing that produced
+the data for analysis later
+
+the Makefile in this folder run all the commands required  
