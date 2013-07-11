@@ -1,8 +1,9 @@
-In this folder read data, we put all the raw data required for analysis
+In this folder data, we put all the data required for analysis,
+i.e. all the data required for generating the graphs
+ 
 the intial set of data includes:
-	reads-nobias.fa 
-	reads-bias-random.fa
-	repreads-bias-random.fa
-	reads-bias-nonrandom.fa
-	ecoli_ref-5m.fastq.gz
+	construction time
+	query time
+	space required
+	read per tag distribution
 
