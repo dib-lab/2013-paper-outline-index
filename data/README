@@ -1,5 +1,6 @@
 In this folder data, we put all the data required for analysis,
 i.e. all the data required for generating the graphs
+these graphs are going to be saveed in the figure folder
  
 the intial set of data includes:
 	construction time
